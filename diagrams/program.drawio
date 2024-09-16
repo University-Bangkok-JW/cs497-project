@@ -38,7 +38,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="oDFjtYayFT5eq8xOY4nx" name="Register">
+  <diagram id="oDFjtYayFT5eq8xOY4nx" name="1 Register">
     <mxGraphModel dx="1372" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -92,7 +92,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6Ysj3Kcsd4LHna5A1Alk" name="Login">
+  <diagram id="6Ysj3Kcsd4LHna5A1Alk" name="2 Login">
     <mxGraphModel dx="1372" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -209,7 +209,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Jla34UvgdhyZ7EVjhWDj" name="Dashboard">
+  <diagram id="Jla34UvgdhyZ7EVjhWDj" name="3 Dashboard">
     <mxGraphModel dx="1143" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
