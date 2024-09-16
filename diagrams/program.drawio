@@ -42,7 +42,7 @@
         <mxCell id="TjQZvMsEXXk0zm0HdSpj-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TjQZvMsEXXk0zm0HdSpj-2" target="TjQZvMsEXXk0zm0HdSpj-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TjQZvMsEXXk0zm0HdSpj-2" value="รับข้อมูล&lt;div&gt;username, email,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;password, re-password&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="TjQZvMsEXXk0zm0HdSpj-2" value="get data&lt;div&gt;username, email,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;password, re-password&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="160" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TjQZvMsEXXk0zm0HdSpj-5" value="Create data&lt;div&gt;Set data in database&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
