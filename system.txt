@@ -1,0 +1,14 @@
+- Register
+- Login
+    - Check username and password
+    - Check attempt count (up to 5 attempts)
+        - If 5 failed attempts, lock the user
+            - To unlock, user must verify their identity
+- Select AI
+    -Start
+        - Assign task to the user
+            - Check the answer, etc.
+                - Award points to the user
+- End
+    - Count points
+    - Summarize the result
