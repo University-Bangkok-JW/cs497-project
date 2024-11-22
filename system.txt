@@ -5,7 +5,7 @@
         - If 5 failed attempts, lock the user
             - To unlock, user must verify their identity
 - Select AI
-    -Start
+    - Start
         - Assign task to the user
             - Check the answer, etc.
                 - Award points to the user
